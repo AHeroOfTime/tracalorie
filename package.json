@@ -1,0 +1,23 @@
+{
+  "name": "tracalorie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AHeroOfTime/tracalorie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AHeroOfTime/tracalorie/issues"
+  },
+  "homepage": "https://aherooftime.github.io/tracalorie",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
